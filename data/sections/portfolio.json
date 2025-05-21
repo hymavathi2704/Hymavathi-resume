@@ -1,0 +1,174 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticlePortfolio",
+      "locales": {
+        "en": {
+          "title": null,
+          "category_all": "ALL",
+          "category_productivity": "Full Stack",
+          "category_social": "Data Analytics",
+          "category_utilities": "AI-ML-DL"
+        }
+      },
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "img": "images/portfolio/chat-campus.png",
+          "fallbackFaIcon": "fa-solid fa-robot",
+          "fallbackFaIconColor": null,
+          "category": "productivity",
+          "locales": {
+            "en": {
+              "title": "Chat-Campus",
+              "description": "The <b>Chat-Campus</b> is an AI-powered chatbot designed to assist students and visitors by providing instant answers about college admissions, courses, facilities, and campus events. It offers quick 24/7 support to improve user experience and reduce manual queries.",
+              "tags": ["AI", "chatbot", "full-stack", "education", "javascript"]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-solid fa-globe",
+              "href": "https://chat-campus.vercel.app/",
+              "stringKey": "Deployment"
+            },
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/hymavathi2704/Chat-Campus",
+              "stringKey": "Github"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "img": "images/portfolio/Spp.png",
+          "fallbackFaIcon": "",
+          "fallbackFaIconColor": null,
+          "category": "productivity",
+          "locales": {
+            "en": {
+              "title": "Single Page Portfolio",
+              "description": "<b>Stackers</b> is a modern, single-page portfolio web app that showcases your projects and skills with a clean and responsive design. It features easy navigation, smooth scrolling, and organized sections to highlight your achievements and experience.",
+              "tags": ["html", "css", "javascript", "portfolio", "responsive"]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-solid fa-globe",
+              "href": "https://hymavathi2704.github.io/Single-page-Portfolio/",
+              "stringKey": "Deployment"
+            },
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/hymavathi2704/Single-page-Portfolio",
+              "stringKey": "Github"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "img": "images/portfolio/spam-email.png",
+          "fallbackFaIcon": "",
+          "fallbackFaIconColor": null,
+          "category": "utilities",
+          "locales": {
+            "en": {
+              "title": "Spam Email Classification",
+              "description": "A machine learning project that classifies emails as spam or not spam using NLP and Python. It processes and analyzes email data, applies text preprocessing, and builds a classifier model trained on the spam.csv dataset to filter unwanted messages effectively.",
+              "tags": ["machine learning", "NLP", "python", "text classification", "data preprocessing"]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-solid fa-globe",
+              "href": "https://spam-email-classification-by-hymavathi.streamlit.app/",
+              "stringKey": "Deployment"
+            },
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/hymavathi2704/Spam-Email-Classification",
+              "stringKey": "Github"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "img": "images/portfolio/mr.png",
+          "fallbackFaIcon": "fa-solid fa-hippo",
+          "fallbackFaIconColor": "#1c875b",
+          "category": "utilities",
+          "locales": {
+            "en": {
+              "title": "Movie Recommender System",
+              "description": "A Python-based machine learning system that recommends movies based on user preferences using collaborative and content-based filtering. Deployed with Streamlit, it enhances user experience by providing personalized movie suggestions from a rich dataset of user ratings and metadata.",
+              "tags": ["machine learning", "recommendation system", "python", "collaborative filtering", "streamlit"]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-solid fa-globe",
+              "href": "https://movie-recommender-by-hyma.streamlit.app/",
+              "stringKey": "Deployment"
+            },
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/hymavathi2704/Movie-Recommender",
+              "stringKey": "Github"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "img": "images/portfolio/hrp.png",
+          "fallbackFaIcon": "",
+          "fallbackFaIconColor": null,
+          "category": "utilities",
+          "locales": {
+            "en": {
+              "title": "Heart Attack Prediction",
+              "description": "A healthcare-focused machine learning model that predicts the risk of heart attacks based on medical data like age, blood pressure, cholesterol, and heart rate. The project includes data preprocessing, analysis, and classification using logistic regression to support early diagnosis and prevention.",
+              "tags": ["machine learning", "healthcare", "classification", "logistic regression", "python"]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-solid fa-globe",
+              "href": "https://heart-attack-risk-prediction-by-hyma.streamlit.app/",
+              "stringKey": "Deployment"
+            },
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/hymavathi2704/Heart-Attack-Risk-Prediction",
+              "stringKey": "Github"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "img": "images/portfolio/ecd.png",
+          "fallbackFaIcon": "",
+          "fallbackFaIconColor": null,
+          "category": "social",
+          "locales": {
+            "en": {
+              "title": "Energy Consumption Dashboard",
+              "description": "An interactive dashboard to monitor and analyze energy consumption across various sectors. It provides detailed visualizations to identify usage patterns, optimize efficiency, and promote sustainability for individuals and organizations.",
+              "tags": ["dashboard", "energy analytics", "data visualization", "sustainability", "monitoring"]
+            }
+          },
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/hymavathi2704/Energy-Consumption-Dashboard/",
+              "stringKey": "Github"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

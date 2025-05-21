@@ -1,0 +1,286 @@
+{
+    "articles": [
+
+    {
+            "id": 1,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {"title": "Awards"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2023, "month": 5},
+                    "fallbackFaIcon": "fa-solid fa-trophy",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Acadamic Topper - 1st Year",
+                            "description": "Consistently ranked among the top performers in academics, demonstrating strong dedication, discipline, and subject mastery.",
+                            "institution": "Vsm College Of Engineering"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://drive.google.com/file/d/1lo0XFPA5LJzkenHf0nbZnnek2uDl68Uj/view?usp=drive_link", "stringKey": "view_more_info"}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {"title": "Publications"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2023, "month": 4},
+                    "fallbackFaIcon": "fa-solid fa-newspaper",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Cash Without Card",
+                            "description": "Recognized for proposing a secure, cardless ATM withdrawal system using mobile authentication and OTP verification",
+                            "institution": "ICRTET"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://drive.google.com/file/d/1jOfs6tyt6arP8hWV5M8_k0Zj1TC-ec6h/view?usp=sharing", "stringKey": "view_more_info"}
+                    ]
+                }
+            ]
+        },
+
+        {
+            "id": 3,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {"title": "WorkShops"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2023, "month": 2},
+                    "fallbackFaIcon": "fa-solid fa-hands-helping",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": " IR4.0 Foundation Course",
+                            "description": "Completed IR4.0 Foundation Course under TechSaksham, a CSR initiative by Microsoft and SAP, implemented by Edunet Foundation; gained foundational knowledge in Industry 4.0 technologies.",
+                            "institution": "EDUNET Foundation"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://drive.google.com/file/d/1JprM7xx5vga5QBy8wzV9ZhkBI_OazM3O/view?usp=drive_link", "stringKey": "view_certification"}
+                    ]
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2024, "month": 6},
+                    "fallbackFaIcon": "fa-solid fa-table",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Data Analytics Workshop",
+                            "description": "Awarded by TechTip24, this certificate recognizes successful participation in the Data Analytics Workshop conducted on 07 April 2024. The workshop focused on foundational and practical aspects of data analytics, equipping participants with hands-on experience in data processing, visualization, and basic statistical methods.",
+                            "institution": "TechTip24"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://verify.techtip24.com/profile?credId=66129778f746adc3284801e3", "stringKey": "Certificate"},
+                        {"href": "https://www.linkedin.com/posts/hyma-vathi-peddimudi-1b77a02b3_powerbi-data-dashboard-activity-7182755514735349760-nbFK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtmrxsBjKqfG6mReSOPu0M_Qwn7tCXhvuk", "stringKey": "Project"}
+                    ]
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2025, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-plug",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "API Fundamentals Student Expert Program",
+                            "description": "Completed a hands-on certification on API integration using Postman. Gained practical skills in making API requests, handling parameters and headers, and implementing API Key Authorization in applications.",
+                            "institution": "Postman"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://badgr.com/public/assertions/NAKqjDTUTDKKJEu5sQ3OWg?identity__email=duraiemma@gmail.com", "stringKey": "view_certification"},
+                        {"href": "https://www.linkedin.com/posts/hyma-vathi-peddimudi-1b77a02b3_postmanstudent-letsupgrade-certifiedbyletsupgrade-activity-7263117246682578945-2Od7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEtmrxsBjKqfG6mReSOPu0M_Qwn7tCXhvuk", "stringKey": "Project"}
+                    ]
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2025, "month": 0},
+                    "fallbackFaIcon": "fa-solid fa-hands-helping",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Applied AI : Practical Implementations",
+                            "description": "A 20-day intensive workshop on Applied Artificial Intelligence: Practical Implementations, conducted under the TechSaksham Program .",
+                            "institution": "EDUNET Foundation"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://drive.google.com/file/d/1Wgvd9k0yyDgC2esNbxzf61HrdThZX0X4/view?usp=drive_link", "stringKey": "view_certification"},
+                        {"href": "https://github.com/hymavathi2704/Heart-Attack-Risk-Prediction", "stringKey": "Project"}
+                    ]
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2024, "month": 9},
+                    "fallbackFaIcon": "fa-solid fa-cloud",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "IBM SkillsBuild Program",
+                            "description": "3-Days Program of Doing AI fundamentals course on IBM’s Skill Build platform. Gained hands-on experience with IBM Watson Studio through a Heart Disease Prediction project, and built a simple Restaurant Chatbot using IBM Watsonx Assistant.",
+                            "institution": "IBM Cloud"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://github.com/hymavathi2704/IBM-Skill-Build-2024.git", "stringKey": "view_certification"}
+                    ]
+                },
+                {
+                    "id": 6,
+                    "dateStart": {"year": 2024, "month": 10},
+                    "fallbackFaIcon": "fa-solid fa-house-laptop",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Infosys SkillsBuild Program",
+                            "description": "Completed three foundational courses: Introduction to Artificial Intelligence, Natural Language Processing, and Deep Learning. Gained insights into real-world AI applications, NLP techniques, and deep learning models using artificial neural networks. Successfully passed the final assessment and earned the Artificial Intelligence Foundation Certification .",
+                            "institution": "Infosys Springboard"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://github.com/hymavathi2704/Infosys-Skill-Build-Program", "stringKey": "view_certification"}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "component": "ArticleThread",
+            "locales": {
+                "en": {"title": "Certifications"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2024, "month": 4},
+                    "fallbackFaIcon": "fa-brands fa-python",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Python Programming",
+                            "description": "A certification that demonstrates proficiency in Python programming fundamentals, including syntax, data structures, and problem-solving. It is ideal for beginners aiming to build a strong foundation in Python coding",
+                            "institution": "Codio"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://github.com/hymavathi2704/Python-Programming-A-Hands-on-Introduction-", "stringKey": "view_certification"}
+                    ]
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2024, "month": 6},
+                    "fallbackFaIcon": "fa-solid fa-server",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Operating Systems Basics",
+                            "description": "This certification provides fundamental knowledge of operating system concepts such as process management, memory management, and file systems. It equips learners with the basics needed for understanding computer systems.",
+                            "institution": "SkillsforAll"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://drive.google.com/file/d/1daDAfI7B-pghSEt6CWYFdg_W73QkY4XU/view?usp=sharing", "stringKey": "view_certification"}
+                    ]
+                },
+                                {
+                    "id": 3,
+                    "dateStart": {"year": 2024, "month": 7},
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Generative AI",
+                            "description": "This certification focuses on generative AI techniques and models, including their applications in content creation and automation. It highlights Oracle’s AI platforms and tools for building intelligent systems.",
+                            "institution": "Oracle"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://catalog-education.oracle.com/ords/certview/sharebadge?id=FB2DA0FD2A9270283C62986F14D881844D93EB9F1378A04543FE9BF1109BADF2", "stringKey": "view_certification"}
+                    ]
+                },
+               {
+                    "id": 4,
+                    "dateStart": {"year": 2024, "month": 10},
+                    "fallbackFaIcon": "fa-brands fa-google",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Google AI",
+                            "description": "A foundational course on AI concepts and machine learning tailored for web applications. This certification introduces practical AI implementations and Google's AI tools for enhancing web-based machine learning projects.",
+                            "institution": "Google"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://github.com/hymavathi2704/Fundamentals-of-Google-AI-for-Web-Based-Machine-Learning", "stringKey": "view_certification"}
+                    ]
+                },
+                {
+                    "id": 5,
+                    "dateStart": {"year": 2024, "month": 11},
+                    "fallbackFaIcon": "fa-solid fa-code-branch",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Full Stack Developer",
+                            "description": "This certification covers both front-end and back-end development, including server, database, API integration, and deployment. It demonstrates proficiency in building complete web applications using technologies like React, Node.js, and databases.",
+                            "institution": "IBM"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://credentials.edx.org/credentials/c5496d6ef3854bf298a640a2550b446c/", "stringKey": "view_certification"}
+                    ]
+                },
+                {
+                    "id": 6,
+                    "dateStart": {"year": 2025, "month": 2},
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Front End Web Developer Certification ",
+                            "description": "This certification covers both front-end and back-end development, including server, database, API integration, and deployment. It demonstrates proficiency in building complete web applications using technologies like React, Node.js, and databases.",
+                            "institution": "Infosys Springboard"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://github.com/hymavathi2704/Front-end " , "stringKey" :"view_certification"}
+                    ]
+                }
+            ]
+        }
+    ]
+}

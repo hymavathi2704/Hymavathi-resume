@@ -1,0 +1,70 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleTimeline",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "desc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "type": "education",
+          "dateStart": {"year": 2019, "month": 1},
+          "dateEnd": {"year": 2020, "month": 7},
+          "img": "images/places/school.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Board of Secondary Education - 10th",
+              "province": "Kakinada",
+              "institution": "MLP Girls High School",
+              "description": "Completed secondary education at MLP Girls High School with a strong focus on foundational academic skills and discipline, laying the groundwork for higher studies in science and technology.",
+              "tags": ["10thGrade", "SecondaryEducation", "HighSchool", "BSEAP", "Kakinada", "AcademicFoundation"]
+
+            }
+          }
+        },
+        {
+          "id": 2,
+          "type": "education",
+          "dateStart": {"year": 2020, "month": 10},
+          "dateEnd": {"year": 2022, "month": 6},
+          "img": "images/places/narayana.png",
+          "fallbackFaIcon": "fa-solid fa-laptop-code",
+          "fallbackFaIconColor": "#140f29",
+          "locales": {
+            "en": {
+              "title": "Board of Intermediate Education - 12th",
+              "province": "Kakinada",
+              "institution": "Narayana Jr college",
+              "description": "Completed intermediate education with a strong academic foundation in Mathematics, Physics, and Chemistry at Narayana Junior College. Developed analytical and logical reasoning skills essential for technical education.",
+              "tags": ["Intermediate", "12thGrade", "MPC", "Mathematics", "Physics", "Chemistry", "PreUniversity", "NarayanaCollege"]
+            }
+          }
+        },
+        {
+          "id": 3,
+          "type": "education",
+          "dateStart": {"year": 2022, "month": 8},
+          "dateEnd": {"year": 2026, "month": 5},
+          "img": "images/places/collegelogo.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Bachelor of Technology in Computer Science",
+              "province": "Ramachandrapuram",
+              "institution": "Vsm College of Engineering",
+              "description": "Pursuing a Bachelor's degree in Computer Science and Engineering at VSM College of Engineering, focusing on core areas such as Data Structures, Machine Learning, Web Development, and Software Engineering. Engaged in hands-on projects and technical activities to build practical and problem-solving skills.",
+              "tags": ["BTech", "ComputerScience", "Engineering", "SoftwareDevelopment", "MachineLearning", "WebDevelopment", "Programming", "CSE", "VSMCollege"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
