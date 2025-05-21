@@ -1,0 +1,203 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleTimeline",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "desc"
+      },
+      "items": [
+        {
+          "id": 2,
+          "type": "experience",
+          "dateStart": { "year": 2024, "month": 8 },
+          "dateEnd": { "year": 2024, "month": 10 },
+          "img": "images/places/oceanapps.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "Web Developer",
+              "description": "Developed an online birth certificate generation system using PHP and MySQL for efficient data management and user interaction.",
+              "province": "India",
+              "country": "Remote",
+              "institution": "OceanApps Technologies",
+              "tags": ["HTML", "CSS", "JavaScript", "php", "Responsive Design"]
+            }
+          },
+          "links": [
+            { "label": "View Project", "url": "https://github.com/hymavathi2704/Obcs-System/" },
+            { "label": "View Certificate", "url": "https://drive.google.com/file/d/1ZIKYRPFwaXKVHzyVjMB1M-SoyRr2kgvB/view?usp=drive_link" }
+          ]
+        },
+        {
+          "id": 3,
+          "type": "experience",
+          "dateStart": { "year": 2024, "month": 10 },
+          "dateEnd": { "year": 2024, "month": 11 },
+          "img": "images/places/edunet1.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "AI Intern",
+              "description": "Built a spam classification model using machine learning techniques. Worked on exploratory data analysis and feature engineering.",
+              "province": "India",
+              "country": "Remote",
+              "institution": "Edunet Foundation",
+              "tags": ["Python", "Scikit-learn", "EDA", "Classification", "Jupyter Notebook"]
+            }
+          },
+          "links": [
+            { "label": "View OfferLetter", "url": "https://drive.google.com/file/d/1RcrnEsTvmy_I-lrUOk6RT_fzXa1v7lM-/view?usp=drive_link" },
+            { "label": "View Project", "url": "https://github.com/hymavathi2704/Spam-Email-Classification" },
+            { "label": "View Certificate", "url": "https://drive.google.com/file/d/1S3vGTAYOgKAdxTA4a5n927JU5Zlh2GlX/view?usp=sharing" }
+          ]
+        },
+        {
+          "id": 4,
+          "type": "experience",
+          "dateStart": { "year": 2024, "month": 11 },
+          "dateEnd": { "year": 2025, "month": 0 },
+          "img": "images/places/ey.jpg",
+          "fallbackFaIcon": "fa-brands fa-steam",
+          "fallbackFaIconColor": "#222222",
+          "locales": {
+            "en": {
+              "title": "Full Stack With MERN",
+              "description": "Developed a scalable MERN stack application. Integrated RESTful APIs and implemented authentication modules.",
+              "province": "India",
+              "country": "Remote",
+              "institution": "EY",
+              "tags": ["MongoDB", "Express.js", "React.js", "Node.js", "REST API"]
+            }
+          },
+          "links": [
+            { "label": "View OfferLetter", "url": "https://drive.google.com/file/d/16RofuZ_gJfTPOvqBHu6ruzhsjgX9kh4i/view?usp=drive_link" },
+            { "label": "View Project", "url": "https://github.com/hymavathi2704/Next-Gen" },
+            { "label": "View Certificate", "url": "https://drive.google.com/file/d/1ga05RgWUnqs3qUbnSfsGhgr4_1lz4ITG/view?usp=drive_link" }
+          ]
+        },
+        {
+          "id": 4,
+          "type": "experience",
+          "dateStart": { "year": 2024, "month": 11 },
+          "dateEnd": { "year": 2025, "month": 0 },
+          "img": "images/places/ibm.jpg",
+          "fallbackFaIcon": "fa-brands fa-steam",
+          "fallbackFaIconColor": "#222222",
+          "locales": {
+            "en": {
+              "title": "AI Intern",
+               "description": "Developed a sensitive analysis model using machine learning techniques as part of AI solutions.",
+              "province": "India",
+              "country": "Remote",
+              "institution": "IBM SkillsBuild",
+              "tags": ["ML", "AI", "Python", "Model Deployment"]
+            }
+          },
+          "links": [
+            { "label": "View OfferLetter", "url": "https://drive.google.com/file/d/1vnAo7guIoRw8XXAAkDbyfw372ezdWijT/view?usp=drive_link" },
+            { "label": "View Project", "url": "https://github.com/hymavathi2704/IBM-Aicte-Internship" },
+            { "label": "View Certificate", "url": "https://drive.google.com/file/d/151IgzYYHXAogGbi9bET4Q7u29JrERGoK/view?usp=drive_link" }
+          ]
+        },
+        {
+          "id": 5,
+          "type": "experience",
+          "dateStart": { "year": 2024, "month": 11 },
+          "dateEnd": { "year": 2025, "month": 1 },
+          "img": "images/places/shell.jpg",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "en": {
+              "title": "AI Intern",
+              "description": "Built data dashboards for energy analytics and developed ML models for agricultural recommendations.",
+              "province": "India",
+              "country": "Remote",
+              "institution": "Shell",
+              "tags": ["Data Visualization", "Power BI", "Machine Learning", "Python", "Agriculture AI"]
+            }
+          },
+          "links": [
+            { "label": "View OfferLetter", "url": "https://drive.google.com/drive/folders/1vc97O1CdkrVXc7aVUZxAA3Djtl7uIVTA?usp=drive_link" },
+            { "label": "View Project - 1", "url": "https://github.com/hymavathi2704/Energy-Consumption-Dashboard" },
+            { "label": "View Project - 2", "url": "https://github.com/hymavathi2704/Crop-Recommend" },
+            { "label": "View Certificate", "url": "https://drive.google.com/drive/folders/1ebKcaXtYfE9Oib77HUSurxxRNpXHdoUf?usp=drive_link" }
+          ]
+        },
+        {
+          "id": 7,
+          "type": "experience",
+          "dateStart": { "year": 2025, "month": 0 },
+          "dateEnd": { "year": 2025, "month": 1 },
+          "img": "images/places/vois.jpg",
+          "fallbackFaIcon": "fa-brands fa-steam",
+          "fallbackFaIconColor": "#222222",
+          "locales": {
+            "en": {
+              "title": "Blockchain Intern",
+              "description": "Designed and deployed smart contracts on Ethereum. Built a decentralized land registry system using Solidity and Web3.js.",
+              "province": "India",
+              "country": "Remote",
+              "institution": "VOIS",
+              "tags": ["Solidity", "Ethereum", "Web3.js", "Smart Contracts", "DApp"]
+            }
+          },
+          "links": [
+            { "label": "View OfferLetter", "url": "https://drive.google.com/file/d/1OjA-FAA08q0oq6p4oVdo70VSMQY0SU-m/view?usp=drive_link" },
+            { "label": "View Project", "url": "https://github.com/hymavathi2704/Land-Registry-Dapp" },
+            { "label": "View Certificate", "url": "https://drive.google.com/file/d/1eA72-pHhJ1tfm5GSIrgWr0AGDF07CPeU/view?usp=drive_link" }
+          ]
+        },
+        {
+          "id": 8,
+          "type": "experience",
+          "dateStart": { "year": 2025, "month": 4 },
+          "dateEnd": { "string": "now" },
+          "img": "images/places/emertxe.png",
+          "fallbackFaIcon": "fa-solid fa-house-laptop",
+          "fallbackFaIconColor": "#222222",
+          "locales": {
+            "en": {
+              "title": "Embedded System Intern",
+              "description": "Worked on embedded C programming and microcontroller-based systems. Gained hands-on experience with ARM-based development boards.",
+              "province": "India",
+              "country": "Remote",
+              "institution": "Emertxe",
+              "tags": ["Embedded C", "Microcontrollers", "ARM", "UART", "Timers"]
+            }
+          },
+          "links": [
+            { "label": "View OfferLetter", "url": "https://drive.google.com/file/d/1kvKrjY_zTcMswmubNfon1qYEzB9JfO5B/view?usp=drive_link" }
+          ]
+        },
+        {
+          "id": 9,
+          "type": "experience",
+          "dateStart": { "year": 2025, "month": 4 },
+          "dateEnd": { "string": "now" },
+          "img": "images/places/aicte.webp",
+          "fallbackFaIcon": "fa-solid fa-house-laptop",
+          "fallbackFaIconColor": "#222222",
+          "locales": {
+            "en": {
+              "title": "AI Azure",
+              "description": "Developed AI models using Azure Machine Learning services. Focused on scalable deployment and monitoring.",
+              "province": "India",
+              "country": "Remote",
+              "institution": "Microsoft - Aicte",
+              "tags": ["Azure ML", "Cloud AI", "Model Deployment", "Data Science", "Python"]
+            }
+          },
+          "links": [
+            { "label": "View OfferLetter", "url": "https://drive.google.com/file/d/10heXVUEJQMx4h-NThV3zhhGzsknSC8dA/view?usp=drive_link" }
+          ]
+        }
+      ]
+    }
+  ]
+}

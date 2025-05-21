@@ -1,0 +1,109 @@
+{
+    "name": "Hymavathi Peddimudi",
+    "profilePictureUrl": "images/pictures/avater.png",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a href='https://github.com/hymavathi2704'>Hymavathi</a></strong>",
+            "role": "Software Developer"
+        }
+    },
+
+    "contactOptions": [
+        {
+            "id": "address",
+            "value": "Housing Board Colony, Ramachandrapuram , 533255",
+            "valueShort": "INDIA – IN",
+            "faIcon": "fa-regular fa-map",
+            "href": null
+        },
+
+        {
+            "id": "email",
+            "value": "Click Here to Send a Mail",
+            "valueShort": "duraiemma@gmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:duraiemma@gmail.com"
+        },
+
+        {
+            "id": "github",
+            "value": "@HymaVathi.official",
+            "valueShort": "@HymaVathi.official",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/hymavathi2704"
+        },
+
+        {
+            "id": "instagram",
+            "value": "@HymaVathi.official",
+            "valueShort": "@HymaVathi.official",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://www.instagram.com/hema_themoon/"
+        },
+
+        {
+            "id": "linkedin",
+            "value": "@HymaVathi.official",
+            "valueShort": "@HymaVathi.official",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/hyma-vathi-peddimudi-1b77a02b3/"
+        },
+
+        {
+            "id": "credly",
+            "value": "View My Credly Profile",
+            "valueShort": "@HymaVathi.official",
+            "faIcon": "fa-solid fa-award",
+            "href": "https://www.credly.com/users/hymavathi-peddimudi"
+        },
+
+        {
+            "id": "salesforce",
+            "value": "View My Salesforce Profile",
+            "valueShort": "@HymaVathi.official",
+            "faIcon": "fa-solid fa-diagram-project",
+            "href": "https://www.salesforce.com/trailblazer/kntb91g19gic9k77m5"
+        },
+
+        {
+            "id": "serviceNow",
+            "value": "View My Service Now Profile",
+            "valueShort": "@HymaVathi.official",
+            "faIcon": "fa-solid fa-network-wired",
+            "href": "https://learning.servicenow.com/lxp/en/pages/nl-public-resume?id=nl_public&user=duraiemma6103256"
+        },
+
+        {
+            "id": "googlecloud",
+            "value": "View My Google Cloud Profile",
+            "valueShort": "@HymaVathi.official",
+            "faIcon": "fa-solid fa-cloud",
+            "href": "https://www.cloudskillsboost.google/public_profiles/a88d69a4-11e6-4e2d-a019-2c616091b07f"
+        },
+
+        {
+            "id": "googledev",
+            "value": "View My Google Developer Profile",
+            "valueShort": "@HymaVathi.official",
+            "faIcon": "fa-solid fa-code",
+            "href": "https://developers.google.com/profile/u/iamhymavathi"
+        },
+
+        {
+            "id": "hackerrank",
+            "value": "View My Hacker Rank Profile",
+            "valueShort": "@HymaVathi.official",
+            "faIcon": "fa-brands fa-hackerrank",
+            "href": "https://www.hackerrank.com/profile/hyma_vathi_274"
+        },
+
+        {
+            "id": "phone",
+            "value": "Send me A Message ",
+            "valueShort": "@HymaVathi.official",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "tel:9618814464"
+        }
+    ]
+}
