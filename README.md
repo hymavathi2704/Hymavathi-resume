@@ -1,5 +1,5 @@
 
-# Vue Resume Template
+# Resume Using Vue
 
 A modern, customizable resume/CV template built with **Vue 3 Composition API**, designed to showcase your professional journey in a clean and adaptive interface.
 
