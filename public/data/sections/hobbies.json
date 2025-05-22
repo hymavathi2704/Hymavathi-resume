@@ -56,7 +56,7 @@
     },
     {
       "id": 4,
-      "fallbackFaIcon": "fa-solid fa-needle-thread",
+      "fallbackFaIcon": "fa-solid fa-shirt",
       "fallbackFaIconColor": "#36A2EB",
       "percentage": 15,
       "locales": {
