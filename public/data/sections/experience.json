@@ -158,28 +158,6 @@
           "type": "experience",
           "dateStart": { "year": 2025, "month": 4 },
           "dateEnd": { "string": "now" },
-          "img": "images/places/emertxe.png",
-          "fallbackFaIcon": "fa-solid fa-house-laptop",
-          "fallbackFaIconColor": "#222222",
-          "locales": {
-            "en": {
-              "title": "Embedded System Intern",
-              "description": "Worked on embedded C programming and microcontroller-based systems. Gained hands-on experience with ARM-based development boards.",
-              "province": "India",
-              "country": "Remote",
-              "institution": "Emertxe",
-              "tags": ["Embedded C", "Microcontrollers", "ARM", "UART", "Timers"]
-            }
-          },
-          "links": [
-            { "label": "View OfferLetter", "url": "https://drive.google.com/file/d/1kvKrjY_zTcMswmubNfon1qYEzB9JfO5B/view?usp=drive_link" }
-          ]
-        },
-        {
-          "id": 9,
-          "type": "experience",
-          "dateStart": { "year": 2025, "month": 4 },
-          "dateEnd": { "string": "now" },
           "img": "images/places/aicte.webp",
           "fallbackFaIcon": "fa-solid fa-house-laptop",
           "fallbackFaIconColor": "#222222",
@@ -194,7 +172,8 @@
             }
           },
           "links": [
-            { "label": "View OfferLetter", "url": "https://drive.google.com/file/d/10heXVUEJQMx4h-NThV3zhhGzsknSC8dA/view?usp=drive_link" }
+            { "label": "View OfferLetter", "url": "https://drive.google.com/file/d/10heXVUEJQMx4h-NThV3zhhGzsknSC8dA/view?usp=drive_link" },
+            { "label": "View Certificate", "url": "https://drive.google.com/file/d/1ytxV67W6Ax3gLsoz3Rqfq_RRVQFh3P1M/view?usp=sharing" }
           ]
         }
       ]
