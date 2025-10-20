@@ -74,44 +74,43 @@
                 "chart": null
             },
             "items": [
-                {
-                    "id": 1,
-                    "img": null,
-                    "fallbackFaIcon": "fa-brands fa-python",
-                    "fallbackFaIconColor": null,
-                    "locales": {
-                        "en": {
-                            "title": "Python",
-                            "description": "Experienced with HTML5 elements and features."
-                        }
-                    }
-                },
+    {
+        "id": 1,
+        "img": null,
+        "fallbackFaIcon": "fa-brands fa-python",
+        "fallbackFaIconColor": null,
+        "locales": {
+            "en": {
+                "title": "Python",
+                "description": "Basic knowledge of Python syntax, data types, and control structures."
+            }
+        }
+    },
+    {
+        "id": 2,
+        "fallbackFaIcon": "fa-solid fa-code",
+        "fallbackFaIconColor": null,
+        "locales": {
+            "en": {
+                "title": "C",
+                "description": "Understanding of C fundamentals like variables, loops, and functions."
+            }
+        }
+    },
+    {
+        "id": 3,
+        "img": null,
+        "fallbackFaIcon": "fa-solid fa-mug-hot",
+        "fallbackFaIconColor": null,
+        "locales": {
+            "en": {
+                "title": "Java",
+                "description": "Familiar with Java basics including classes, objects, and OOP concepts."
+            }
+        }
+    }
+]
 
-                {
-                    "id": 2,
-                    "fallbackFaIcon": "fa-solid fa-code",
-                    "fallbackFaIconColor": null,
-                    "locales": {
-                        "en": {
-                            "title": "C",
-                            "description": "Skilled in advanced CSS3 techniques like flexbox and animations."
-                        }
-                    }
-                },
-
-                {
-                    "id": 3,
-                    "img": null,
-                    "fallbackFaIcon": "fa-solid fa-mug-hot",
-                    "fallbackFaIconColor": null,
-                    "locales": {
-                        "en": {
-                            "title": "Java",
-                            "description": "Skilled in JavaScript for dynamic, interactive web applications."
-                        }
-                    }
-                }
-            ]
         },
 
         {
@@ -176,7 +175,7 @@
                     "locales": {
                         "en": {
                             "title": "Vue 3",
-                            "description": "Capable of building and deploying complex Vue applications."
+                            "description": "Capable of building and deploying Vue applications."
                         }
                     }
                 },
