@@ -181,7 +181,7 @@
           "type": "experience",
           "dateStart": { "year": 2025, "month": 9 },
           "dateEnd": { "string": "now" },
-          "img": "images/places/Startworks.jpg",
+          "img": "images/places/startworks.jpg",
           "fallbackFaIcon": "fa-solid fa-house-laptop",
           "fallbackFaIconColor": "#222222",
           "locales": {
