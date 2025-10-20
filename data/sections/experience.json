@@ -157,7 +157,7 @@
           "id": 8,
           "type": "experience",
           "dateStart": { "year": 2025, "month": 4 },
-          "dateEnd": { "string": "now" },
+          "dateEnd": {  "year": 2025, "month": 6},
           "img": "images/places/aicte.webp",
           "fallbackFaIcon": "fa-solid fa-house-laptop",
           "fallbackFaIconColor": "#222222",
@@ -171,6 +171,29 @@
               "tags": ["Azure ML", "Cloud AI", "Model Deployment", "Data Science", "Python"]
             }
           },
+          "links": [
+            { "label": "View OfferLetter", "url": "https://drive.google.com/file/d/10heXVUEJQMx4h-NThV3zhhGzsknSC8dA/view?usp=drive_link" },
+            { "label": "View Certificate", "url": "https://drive.google.com/file/d/1ytxV67W6Ax3gLsoz3Rqfq_RRVQFh3P1M/view?usp=sharing" }
+          ]
+        },
+        {
+          "id": 9,
+          "type": "experience",
+          "dateStart": { "year": 2025, "month": 9 },
+          "dateEnd": { "string": "now" },
+          "img": "images/places/startworks.jpg",
+          "fallbackFaIcon": "fa-solid fa-house-laptop",
+          "fallbackFaIconColor": "#222222",
+          "locales": {
+  "en": {
+    "title": "Full Stack Intern",
+    "description": "Worked on the Katha platform, building a system that connects coaches and clients to manage and grow their businesses. Developed and maintained responsive front-end interfaces using React.js and Tailwind CSS, and implemented backend functionality with MySQL integration.",
+    "province": "India",
+    "country": "Remote",
+    "institution": "Katha Project",
+    "tags": ["React.js", "Tailwind CSS", "MySQL", "Full Stack Development", "Business Platform"]
+  }
+},
           "links": [
             { "label": "View OfferLetter", "url": "https://drive.google.com/file/d/10heXVUEJQMx4h-NThV3zhhGzsknSC8dA/view?usp=drive_link" },
             { "label": "View Certificate", "url": "https://drive.google.com/file/d/1ytxV67W6Ax3gLsoz3Rqfq_RRVQFh3P1M/view?usp=sharing" }
