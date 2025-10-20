@@ -15,8 +15,6 @@
           "dateStart": { "year": 2024, "month": 8 },
           "dateEnd": { "year": 2024, "month": 10 },
           "img": "images/places/oceanapps.png",
-          "fallbackFaIcon": null,
-          "fallbackFaIconColor": null,
           "locales": {
             "en": {
               "title": "Web Developer",
@@ -24,7 +22,7 @@
               "province": "India",
               "country": "Remote",
               "institution": "OceanApps Technologies",
-              "tags": ["HTML", "CSS", "JavaScript", "php", "Responsive Design"]
+              "tags": ["HTML", "CSS", "JavaScript", "PHP", "Responsive Design"]
             }
           },
           "links": [
@@ -38,8 +36,6 @@
           "dateStart": { "year": 2024, "month": 10 },
           "dateEnd": { "year": 2024, "month": 11 },
           "img": "images/places/edunet1.png",
-          "fallbackFaIcon": null,
-          "fallbackFaIconColor": null,
           "locales": {
             "en": {
               "title": "AI Intern",
@@ -62,8 +58,6 @@
           "dateStart": { "year": 2024, "month": 11 },
           "dateEnd": { "year": 2025, "month": 0 },
           "img": "images/places/ey.jpg",
-          "fallbackFaIcon": "fa-brands fa-steam",
-          "fallbackFaIconColor": "#222222",
           "locales": {
             "en": {
               "title": "Full Stack With MERN",
@@ -81,17 +75,15 @@
           ]
         },
         {
-          "id": 4,
+          "id": 5,
           "type": "experience",
           "dateStart": { "year": 2024, "month": 11 },
           "dateEnd": { "year": 2025, "month": 0 },
           "img": "images/places/ibm.jpg",
-          "fallbackFaIcon": "fa-brands fa-steam",
-          "fallbackFaIconColor": "#222222",
           "locales": {
             "en": {
               "title": "AI Intern",
-               "description": "Developed a sensitive analysis model using machine learning techniques as part of AI solutions.",
+              "description": "Developed a sentiment analysis model using machine learning techniques as part of AI solutions.",
               "province": "India",
               "country": "Remote",
               "institution": "IBM SkillsBuild",
@@ -105,13 +97,11 @@
           ]
         },
         {
-          "id": 5,
+          "id": 6,
           "type": "experience",
           "dateStart": { "year": 2024, "month": 11 },
           "dateEnd": { "year": 2025, "month": 1 },
           "img": "images/places/shell.jpg",
-          "fallbackFaIcon": null,
-          "fallbackFaIconColor": null,
           "locales": {
             "en": {
               "title": "AI Intern",
@@ -135,8 +125,6 @@
           "dateStart": { "year": 2025, "month": 0 },
           "dateEnd": { "year": 2025, "month": 1 },
           "img": "images/places/vois.jpg",
-          "fallbackFaIcon": "fa-brands fa-steam",
-          "fallbackFaIconColor": "#222222",
           "locales": {
             "en": {
               "title": "Blockchain Intern",
@@ -157,13 +145,11 @@
           "id": 8,
           "type": "experience",
           "dateStart": { "year": 2025, "month": 4 },
-          "dateEnd": {  "year": 2025, "month": 6},
+          "dateEnd": { "year": 2025, "month": 6 },
           "img": "images/places/aicte.webp",
-          "fallbackFaIcon": "fa-solid fa-house-laptop",
-          "fallbackFaIconColor": "#222222",
           "locales": {
             "en": {
-              "title": "AI Azure",
+              "title": "AI Azure Intern",
               "description": "Developed AI models using Azure Machine Learning services. Focused on scalable deployment and monitoring.",
               "province": "India",
               "country": "Remote",
@@ -180,20 +166,18 @@
           "id": 9,
           "type": "experience",
           "dateStart": { "year": 2025, "month": 9 },
-          "dateEnd": { "string": "now" },
-          "img": "images/places/startworks.jpg",
-          "fallbackFaIcon": "fa-solid fa-house-laptop",
-          "fallbackFaIconColor": "#222222",
+          "dateEnd": "now",
+          "img": "images/places/Startworks.jpg",
           "locales": {
             "en": {
-             "title": "Full Stack Intern",
-             "description": "Worked on the Katha platform, building a system that connects coaches and clients to manage and grow their businesses. Developed and maintained responsive front-end interfaces using React.js and Tailwind CSS, and implemented backend functionality with MySQL integration.",
-             "province": "India",
-             "country": "Remote",
-             "institution": "Katha Project",
-            "tags": ["React.js", "Tailwind CSS", "MySQL", "Full Stack Development", "Business Platform"]
-           }
-         },
+              "title": "Full Stack Intern",
+              "description": "Worked on the Katha platform, building a system that connects coaches and clients to manage and grow their businesses. Developed and maintained responsive front-end interfaces using React.js and Tailwind CSS, and implemented backend functionality with MySQL integration.",
+              "province": "India",
+              "country": "Remote",
+              "institution": "Katha Project",
+              "tags": ["React.js", "Tailwind CSS", "MySQL", "Full Stack Development", "Business Platform"]
+            }
+          }
         }
       ]
     }
