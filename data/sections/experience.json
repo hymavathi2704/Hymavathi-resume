@@ -165,16 +165,16 @@
         {
           "id": 9,
           "type": "experience",
-          "dateStart": { "year": 2025, "month": 9 },
-          "dateEnd": "now",
+          "dateStart": { "year": 2025, "month": 8 },
+          "dateEnd": { "year": 2025, "month": 11 },
           "img": "images/places/Startworks.jpg",
           "locales": {
             "en": {
               "title": "Full Stack Intern",
-              "description": "Worked on the Katha platform, building a system that connects coaches and clients to manage and grow their businesses. Developed and maintained responsive front-end interfaces using React.js and Tailwind CSS, and implemented backend functionality with MySQL integration.",
+              "description": "Working on the Katha platform, building a system that connects coaches and clients to manage and grow their businesses. Developed and maintained responsive front-end interfaces using React.js and Tailwind CSS, and implemented backend functionality with MySQL integration.",
               "province": "India",
               "country": "Remote",
-              "institution": "Katha Project",
+              "institution": "startworks technology pvt ltd",
               "tags": ["React.js", "Tailwind CSS", "MySQL", "Full Stack Development", "Business Platform"]
             }
           }
